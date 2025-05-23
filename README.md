@@ -1,4 +1,4 @@
-SSH Brute Force Script (For Educational Use Only)
+🔐 SSH Brute Force Script (For Educational Use Only)
 
 This Python script attempts SSH login brute-force attacks using a password list.
 
