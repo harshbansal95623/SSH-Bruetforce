@@ -12,34 +12,13 @@ This tool is **strictly for educational purposes**. Do not use it against system
 - `pwntools`
 - `paramiko`
 
-🚀 Installation
-Clone the repository:
 
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
-(Optional) Create and activate a virtual environment:
+## 📦 Installation
 
-bash
-Copy
-Edit
-python3 -m venv venv
-source venv/bin/activate      # On Windows: venv\Scripts\activate
-Install the required Python packages:
+1. **Clone the Repository**
 
-bash
-Copy
-Edit
-pip install -r requirements.txt
-📖 Usage
-Make sure you have a password list file (e.g., ssh_common-password.txt) in the project directory.
-
-Run the script:
-
-bash
-Copy
-Edit
-python3 ssh_brute_force.py
-Modify the script variables (host, username, etc.) as needed before running.
+```bash
+git clone https://github.com/harshbansal95623/SSH-Bruetforce.git
+cd SSH-Bruetforce
+pip3 install -r requirements.txt
+python3 ssh_brute_force.py 
