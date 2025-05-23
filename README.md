@@ -7,8 +7,8 @@ Do NOT use it against systems you do not own or do not have explicit permission 
 Unauthorized use of brute-force tools is illegal and unethical.
 
 🛠 Requirements
-Python 3
 
+Python 3
 pwntools
 paramiko
 
