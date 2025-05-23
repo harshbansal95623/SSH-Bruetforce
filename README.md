@@ -13,9 +13,7 @@ This tool is **strictly for educational purposes**. Do not use it against system
 - `paramiko`
 
 
-## 📦 Installation
-
-1. **Clone the Repository**
+## 📦 Installation && Usage
 
 ```bash
 git clone https://github.com/harshbansal95623/SSH-Bruetforce.git
