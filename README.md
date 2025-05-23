@@ -1,17 +1,18 @@
-# SSH-Bruetforce
-A Python-based SSH brute-force script using pwntools and paramiko. This tool attempts to log into an SSH server by cycling through a list of common passwords.
+# SSH Brute Force Script (For Educational Use Only)
 
-Features
-Attempts SSH login using a wordlist
+This Python script attempts SSH login brute-force attacks using a password list.
 
-Built with pwntools for efficient SSH handling
+## ⚠️ Legal Notice
 
-Easy to configure target host, port, and username
+This tool is **strictly for educational purposes**. Do not use it against systems you do not own or have explicit permission to test. Unauthorized use of brute-force tools is illegal and unethical.
 
-Clean, readable, and modular Python code
+## 🛠 Requirements
 
-Suitable for learning about brute-force techniques and password security
+- Python 3
+- `pwntools`
+- `paramiko`
 
-⚠️ Legal Disclaimer
-This project is intended solely for educational and ethical penetration testing purposes.
-Do not use this tool against systems without explicit permission. Unauthorized use is illegal and
+Install dependencies with:
+
+```bash
+pip install -r requirements.txt
