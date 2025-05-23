@@ -18,3 +18,12 @@ git clone https://github.com/harshbansal95623/SSH-Bruetforce.git
 cd SSH-Bruetforce
 pip3 install -r requirements.txt
 python3 ssh_brute_force.py
+```
+
+⚙️ Configuration
+Before running the script, you can change the target SSH username by modifying the username variable inside ssh_brute_force.py:
+
+```bash
+username = "your_target_username"
+```
+Make sure to update this to the desired username for your testing environment.
